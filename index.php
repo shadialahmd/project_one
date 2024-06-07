@@ -4,6 +4,8 @@
 $faker = Faker\Factory::create();
 
 $c=0;
+$v="c";
+echo $v;
 
 while($c!=10){
 
