@@ -5,7 +5,8 @@ $faker = Faker\Factory::create();
 
 $c=0;
 $v="c";
-echo $v;
+echo $v.$c;
+echo "shadi";
 
 while($c!=10){
 
